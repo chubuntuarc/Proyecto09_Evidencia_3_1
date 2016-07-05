@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Evidencia III.1</string>
-    <string name="app_description">Registrar nombres en una lista desplegable.</string>
+    <string name="app_description">Mostrar nombres de sistemas operativos, de una lista desplegable en un input.</string>
 </resources>
