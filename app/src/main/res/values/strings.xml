@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Proyecto09_Evidencia_3_1</string>
+    <string name="app_name">Evidencia III.1</string>
+    <string name="app_description">Registrar nombres en una lista desplegable.</string>
 </resources>
